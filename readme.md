@@ -1,0 +1,1 @@
+Meu primeiro projeto para colocar em prática, comércio de uma sócia.
